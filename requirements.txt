@@ -4,3 +4,4 @@ IPython
 plotly      
 seaborn
 plotly
+kaleido
