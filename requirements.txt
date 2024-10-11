@@ -7,4 +7,3 @@ plotly
 kaleido
 dash
 pgeocode
-sklearn
