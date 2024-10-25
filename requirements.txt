@@ -3,7 +3,6 @@ numpy
 IPython
 plotly      
 seaborn
-plotly
 kaleido
 dash
 pgeocode
